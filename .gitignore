@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+
+# Python cache
+__pycache__/
+
+# VSCode settings
+.vscode/
+
+# Dataset files (optional, good for large files)
+*.csv
