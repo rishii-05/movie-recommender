@@ -65,7 +65,7 @@ Follow these steps to get the project running on your local machine.
 ### 1. Prerequisites
 
 - Python 3.8 or higher
-- 'pip' and 'venv'
+- `pip` and `venv`
 - Git and Git LFS
 
 ### 2. Clone the Repository
